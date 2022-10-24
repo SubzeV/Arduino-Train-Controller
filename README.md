@@ -1,4 +1,4 @@
-# Train Controller for Arduino Uno
+# Train Controller for Arduino Leonardo
 My own train simulator controller software for use with an Arduino Leonardo or Leonardo clones on Train Simulator classic AKA Railworks 3. Build your own cab for cheap.
 
 What you need to get started:
