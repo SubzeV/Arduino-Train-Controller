@@ -1,8 +1,8 @@
 # Train Controller for Arduino Uno
-My own train simulator controller software for use with an Arduino Uno or Uno clones on Train Simulator classic AKA Railworks 3. Build your own cab for cheap.
+My own train simulator controller software for use with an Arduino Leonardo or Leonardo clones on Train Simulator classic AKA Railworks 3. Build your own cab for cheap.
 
 What you need to get started:
-- Arduino Leonardo or Leonardo clones (other arduinos might work if they have analog inputs too, but I can NOT guarantee that they will work)
+- Arduino Leonardo or Leonardo clones (other arduinos might work if they have analog inputs and usb HID device emulation too, but I can NOT guarantee that they will work)
 - Arduino IDE (https://www.arduino.cc/en/software)
 - Raildriver joystick interface to rebind the arduino inputs to actual movements and buttons in-game (https://simtogether.com/files/file/929-raildriver-and-joystick-interface/)
 - Potentiometers & buttons (the amount of each depends on what kind of setup you will use)
