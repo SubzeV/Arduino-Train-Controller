@@ -10,7 +10,7 @@ What you need to get started:
 - Breadboard(s) for testing
 - Some (basic) coding knowledge
 - Bonus: Soldering iron and 3D printer so you don't just turn potentiometers by hand
-- And lastly, some patience for setting this up. (Trust me, it is worth it if you enjoy train sim which you probably do considering you are here 😆)
+- And lastly, some patience for setting this up. (Trust me, it is worth it if you enjoy train sim which you probably do considering you are here 🙂)
 
 If you have questions or need help, please do not use the bugtracker for that. I will be setting up the wiki and a discord server if there is demand for it (For now you can use the bugtracker if you really need to, but classify it as a question please).
 
