@@ -4,6 +4,7 @@ My own train simulator controller software for use with an Arduino Leonardo or L
 What you need to get started:
 - Arduino Leonardo or Leonardo clones (other arduinos might work if they have analog inputs and usb HID device emulation too, but I can NOT guarantee that they will work)
 - Arduino IDE (https://www.arduino.cc/en/software)
+- Arduino Joystick library (https://github.com/MHeironimus/ArduinoJoystickLibrary/releases)
 - Raildriver joystick interface to rebind the arduino inputs to actual movements and buttons in-game (https://simtogether.com/files/file/929-raildriver-and-joystick-interface/)
 - Potentiometers & buttons (the amount of each depends on what kind of setup you will use)
 - Wires
