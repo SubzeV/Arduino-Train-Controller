@@ -1,4 +1,6 @@
 # Train Controller (Joystick emulation) for Arduino Leonardo
+Quick note: I will soon be updating this repository again, hopefully allowing for a great amount of modularity in what to connect. This is useful for both building your own sim and for me when I decide to change up the current build.
+
 My own train simulator controller software for use with an Arduino Leonardo or Leonardo clones on Train Simulator classic AKA Railworks 3. Build your own cab for cheap.
 
 What you need to get started:
