@@ -7,7 +7,7 @@ What you need to get started:
 - Arduino Leonardo or Leonardo clones (other arduinos might work if they have analog inputs and usb HID device emulation too, but I can NOT guarantee that they will work)
 - Arduino IDE (https://www.arduino.cc/en/software)
 - Arduino Joystick library (https://github.com/MHeironimus/ArduinoJoystickLibrary/releases)
-- Raildriver joystick interface to rebind the arduino inputs to actual movements and buttons in-game (https://simtogether.com/files/file/929-raildriver-and-joystick-interface/)
+- Raildriver joystick interface to rebind the arduino inputs to actual movements and buttons in-game (https://simtogether.com/files/file/929-raildriver-and-joystick-interface/) It is recommended that you download the file called '471270362_TS2017RaildriverandJoystickInterfaceV3.2.9.zip' as that is the newest. In that zip archive you will find a secondary zip called 'TS2017 Raildriver and Joystick Interface V3.2.9.zip' Unzip that too. After unzipping both of those you will find 'TS2019 Interface (x64).exe' use that if you are using the 64-bit version or use 'TS2019 Interface (x86).exe' if you are using the 32-bit version of Train Simulator.
 - Potentiometers & buttons (the amount of each depends on what kind of setup you will use)
 - Wires
 - Breadboard(s) for testing
